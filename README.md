@@ -44,3 +44,5 @@ Which will result in comment:
 
 ### Writes fields to config file at $HOME/jira/config.yml
 - None
+
+This is to test some code
